@@ -1,0 +1,1082 @@
+{
+  "channels": [
+    {
+      "id": "1",
+      "name": "BEIN SPORTS 1 HD (TURKEY)",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=5934938605e361d7e0ff0"
+    },
+    {
+      "id": "2",
+      "name": "BEIN SPORTS 1 (720PFEED)",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=22330664333ebb4acbb6ab"
+    },
+    {
+      "id": "3",
+      "name": "BEIN SPORTS 1 .c",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=300113394ceebba66c8ad"
+    },
+    {
+      "id": "4",
+      "name": "BEIN SPORTS 1 (720P)",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=38404756531618c87fcc66"
+    },
+    {
+      "id": "5",
+      "name": "BEIN SPORTS 1 [LIVE DURING EVENTS ONLY]",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=342898470360b159ef8301"
+    },
+    {
+      "id": "6",
+      "name": "BEIN SPORTS 1 +",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2576216897d1c2b14af4e9"
+    },
+    {
+      "id": "7",
+      "name": "BEIN SPORTS 1 FEED",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2729088606df69156b1eda"
+    },
+    {
+      "id": "8",
+      "name": "BEIN SPORTS 1 H265",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=24034250314fd9aa349685"
+    },
+    {
+      "id": "9",
+      "name": "BEIN SPORTS 1 HD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=66217962033a2d3e9c47f"
+    },
+    {
+      "id": "10",
+      "name": "BEIN SPORTS 2 .c",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1447241506bdccfad8b85c"
+    },
+    {
+      "id": "11",
+      "name": "BEIN SPORTS 2 .s",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=250946619196f7d48e5d74"
+    },
+    {
+      "id": "12",
+      "name": "BEIN SPORTS 2 HD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=28515391437e928cafd5dd"
+    },
+    {
+      "id": "13",
+      "name": "BEIN SPORTS 2 SD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=323636291171b2af97d745"
+    },
+    {
+      "id": "14",
+      "name": "BEIN SPORTS 2 UHD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3694662475a36c53181838"
+    },
+    {
+      "id": "15",
+      "name": "BEIN SPORTS 3 .c",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports3.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=179745960216563080394f"
+    },
+    {
+      "id": "16",
+      "name": "BEIN SPORTS 3 .s",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports3.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2834514943d9fcc1df9594"
+    },
+    {
+      "id": "17",
+      "name": "BEIN SPORTS 3 HD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports3.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=17005958018c5d23b49ef0"
+    },
+    {
+      "id": "18",
+      "name": "BEIN SPORTS 3 SD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports3.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=206371329905d7f81fb9d"
+    },
+    {
+      "id": "19",
+      "name": "BEIN SPORTS 3 UHD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports3.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3410167560f6960a0d6de9"
+    },
+    {
+      "id": "20",
+      "name": "BEIN SPORTS 4 .c",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports4.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3640906370384c4c528e99"
+    },
+    {
+      "id": "21",
+      "name": "BEIN SPORTS 4 .s",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports4.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=450076655d706ff73e384"
+    },
+    {
+      "id": "22",
+      "name": "BEIN SPORTS 4 HD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports4.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1872232768c7c65ceb9862"
+    },
+    {
+      "id": "23",
+      "name": "BEIN SPORTS 4 UHD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports4.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2938268353a63a37b4528e"
+    },
+    {
+      "id": "24",
+      "name": "BEIN SPORTS 4K FEED(KUTU)",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=267105889a25a483e5e80"
+    },
+    {
+      "id": "25",
+      "name": "BEIN SPORTS 4K FEED(UYDU)",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1536730627bbf8f95ca477"
+    },
+    {
+      "id": "26",
+      "name": "BEIN SPORTS 5 .c",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports5.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3831757618ff599ed6d68c"
+    },
+    {
+      "id": "27",
+      "name": "BEIN SPORTS 5 (MATCH TIME)",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports5.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=12304481920a92c9204dcd"
+    },
+    {
+      "id": "28",
+      "name": "BEIN SPORTS 5 FHD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports5.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=400031560175e3479a3f11"
+    },
+    {
+      "id": "29",
+      "name": "BEIN SPORTS 5 HD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports5.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2737963486b4d9c437a945"
+    },
+    {
+      "id": "30",
+      "name": "BEIN SPORTS 720P FEED",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=499485497d6131f47417d"
+    },
+    {
+      "id": "31",
+      "name": "BEIN SPORTS 8K FEED",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2113462398d8dd57a8ea73"
+    },
+    {
+      "id": "32",
+      "name": "BEIN SPORTS FEED (OZEL FEED YAYIN)",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1453692314f52730c50395"
+    },
+    {
+      "id": "33",
+      "name": "BEIN SPORTS MAX 1 .c",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsportsmax1.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1221587067c43d5b265b10"
+    },
+    {
+      "id": "34",
+      "name": "BEIN SPORTS MAX 1 .s",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsportsmax1.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=283243053554cc6eb0a10a"
+    },
+    {
+      "id": "35",
+      "name": "BEIN SPORTS MAX 1 FHD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsportsmax1.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=4071474743dbe8a60b9395"
+    },
+    {
+      "id": "36",
+      "name": "BEIN SPORTS MAX 1 HD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsportsmax1.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=22528142332d275721233"
+    },
+    {
+      "id": "37",
+      "name": "BEIN SPORTS MAX 2 .c",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsportsmax2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=25896823596a84e43dd09"
+    },
+    {
+      "id": "38",
+      "name": "BEIN SPORTS MAX 2 .s",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsportsmax2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=4017295127660d677c32f9"
+    },
+    {
+      "id": "39",
+      "name": "BEIN SPORTS MAX 2 FHD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsportsmax2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3407936242f95c33ae8820"
+    },
+    {
+      "id": "40",
+      "name": "BEIN SPORTS MAX 2 HD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsportsmax2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2212659820b109b476a4d3"
+    },
+    {
+      "id": "41",
+      "name": "BEIN SPOTS1 SD",
+      "category": "beIN Sports",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/beinsports.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=143239535a2e3c23c1d16"
+    },
+    {
+      "id": "42",
+      "name": "S SPORT .c",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssport.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=33465497225b9857743b71"
+    },
+    {
+      "id": "43",
+      "name": "S SPORT .s",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssport.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=37183362955b988ce99242"
+    },
+    {
+      "id": "44",
+      "name": "S SPORT 2 .c",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssport2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1313768516926dc999c43b"
+    },
+    {
+      "id": "45",
+      "name": "S SPORT 2 .s",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssport2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1234604880d226de6d47be"
+    },
+    {
+      "id": "46",
+      "name": "S SPORT+4 MAC SAATI",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1507829436cb5aa4fb5b34"
+    },
+    {
+      "id": "47",
+      "name": "S SPORT+5 MAC SAATI",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=376048776421ffc14b9074"
+    },
+    {
+      "id": "48",
+      "name": "S-SPORT 1 UHD",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssport.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3531762195c7260405eaad"
+    },
+    {
+      "id": "49",
+      "name": "S-SPORT 2 HD",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssport2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1183409452148e7cb0f613"
+    },
+    {
+      "id": "50",
+      "name": "S-SPORT 2 UHD",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssport2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=394365103048c3f48946a4"
+    },
+    {
+      "id": "51",
+      "name": "S-SPORT HD",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssport.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=919993168ebbbfbeecc50"
+    },
+    {
+      "id": "52",
+      "name": "S-SPORT+1 MAC SAATI",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2559756791dcf166140367"
+    },
+    {
+      "id": "53",
+      "name": "S-SPORT+2 MAC SAATI",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2314183566dbbab2892d05"
+    },
+    {
+      "id": "54",
+      "name": "S-SPORTS 1 SD",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssport.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3202905239f7c8981cff1"
+    },
+    {
+      "id": "55",
+      "name": "S-SPORTS 2 SD",
+      "category": "S Sport",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssport2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=26439990320f2e0b009aff"
+    },
+    {
+      "id": "56",
+      "name": "TABII SPOR .c",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1844863271513a413a321"
+    },
+    {
+      "id": "57",
+      "name": "TABII SPOR 1 .c",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=10977951419d3dfac60f92"
+    },
+    {
+      "id": "58",
+      "name": "TABII SPOR 1 4K",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=38306913165380d4cf64db"
+    },
+    {
+      "id": "59",
+      "name": "TABII SPOR 1 720P",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=36659147631b81d08d6c82"
+    },
+    {
+      "id": "60",
+      "name": "TABII SPOR 1 UHD",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=310770852202539a162e99"
+    },
+    {
+      "id": "61",
+      "name": "TABII SPOR 2 .c",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=11426114102c71664711c"
+    },
+    {
+      "id": "62",
+      "name": "TABII SPOR 2 HD",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=24901653728e4a187da4c4"
+    },
+    {
+      "id": "63",
+      "name": "TABII SPOR 2 UHD",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=21594692318c346548c2be"
+    },
+    {
+      "id": "64",
+      "name": "TABII SPOR 3 .c",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=10013463414fd5f0938a50"
+    },
+    {
+      "id": "65",
+      "name": "TABII SPOR 3 HD",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1489430754b4fd6e6dc327"
+    },
+    {
+      "id": "66",
+      "name": "TABII SPOR 4 .c",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2307885365b7f1828e97ba"
+    },
+    {
+      "id": "67",
+      "name": "TABII SPOR 4 HD",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=13759861713a771b4b4726"
+    },
+    {
+      "id": "68",
+      "name": "TABII SPOR 4 UHD",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=408817539739fafefc9d3b"
+    },
+    {
+      "id": "69",
+      "name": "TABII SPOR 5 .c",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3035603077ef0df0e5da67"
+    },
+    {
+      "id": "70",
+      "name": "TABII SPOR 5 HD",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=26619334135baa08b0bc1a"
+    },
+    {
+      "id": "71",
+      "name": "TABII SPOR 6 .c",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=40820967253b1d74e19a7f"
+    },
+    {
+      "id": "72",
+      "name": "TABII SPOR 6 HD",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=270984838ca5cfbf75daa"
+    },
+    {
+      "id": "73",
+      "name": "TABII SPOR 6 UHD",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=37137089631c97c5b7ef8f"
+    },
+    {
+      "id": "74",
+      "name": "TABII SPOR HD",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=225948008747f499d08214"
+    },
+    {
+      "id": "75",
+      "name": "TABII SPOR SD",
+      "category": "Tabii Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=40221481750ee503c548f9"
+    },
+    {
+      "id": "76",
+      "name": "TIVIBU SPOR",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1159899920595e9c441350"
+    },
+    {
+      "id": "77",
+      "name": "TIVIBU SPOR 1",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=25659723389efdd2098be1"
+    },
+    {
+      "id": "78",
+      "name": "TIVIBU SPOR 1 .s",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1528949791210996169a6f"
+    },
+    {
+      "id": "79",
+      "name": "TIVIBU SPOR 1 HD .s",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2046583925cdbd476d8733"
+    },
+    {
+      "id": "80",
+      "name": "TIVIBU SPOR 2 .c",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=37466838109fc1c67c228d"
+    },
+    {
+      "id": "81",
+      "name": "TIVIBU SPOR 2 .s",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=4782547993a1194125c51"
+    },
+    {
+      "id": "82",
+      "name": "TIVIBU SPOR 3 .c",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=37949240505288959ad99c"
+    },
+    {
+      "id": "83",
+      "name": "TIVIBU SPOR 3 .s",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=568442751987b14d1ad00"
+    },
+    {
+      "id": "84",
+      "name": "TIVIBU SPOR 3 HD .s",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=100410240872b813d41c94"
+    },
+    {
+      "id": "85",
+      "name": "TIVIBU SPOR 4 .c",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1343303170fbfea75b9f15"
+    },
+    {
+      "id": "86",
+      "name": "TIVIBU SPOR 4 HD",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3307062704472686916fe7"
+    },
+    {
+      "id": "87",
+      "name": "TIVIBU SPOR RAW",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1406262118fb4f653061f6"
+    },
+    {
+      "id": "88",
+      "name": "TIVIBUSPOR 1 FHD",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=289665874444b8f4f2d451"
+    },
+    {
+      "id": "89",
+      "name": "TIVIBUSPOR 1 HD",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=36545180071dd8a862ae2e"
+    },
+    {
+      "id": "90",
+      "name": "TIVIBUSPOR 2 FHD",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=25026063331fd9c2bab71e"
+    },
+    {
+      "id": "91",
+      "name": "TIVIBUSPOR 2 HD",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1465680660b8cd069bfa4c"
+    },
+    {
+      "id": "92",
+      "name": "TIVIBUSPOR 3 FHD",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=21863899508f19a672f26d"
+    },
+    {
+      "id": "93",
+      "name": "TIVIBUSPOR 3 HD",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=261662401043fc1ad1ed6f"
+    },
+    {
+      "id": "94",
+      "name": "TIVIBUSPOR SPOR HD",
+      "category": "Tivibu Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=36535158588fee46401238"
+    },
+    {
+      "id": "95",
+      "name": "SMART SPOR 1 .s",
+      "category": "Smart Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=4137962062d812f45c58bd"
+    },
+    {
+      "id": "96",
+      "name": "SPOR SMART .c",
+      "category": "Smart Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1771511397d05184d3e443"
+    },
+    {
+      "id": "97",
+      "name": "SPOR SMART 1 .s",
+      "category": "Smart Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3278735965dfe5a38d92ee"
+    },
+    {
+      "id": "98",
+      "name": "SPOR SMART 2 .c",
+      "category": "Smart Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=90716509593fd6426951b"
+    },
+    {
+      "id": "99",
+      "name": "SPOR SMART 2 .s",
+      "category": "Smart Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2228088973f56fff74c71f"
+    },
+    {
+      "id": "100",
+      "name": "SPOR SMART 2 HD",
+      "category": "Smart Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2726496671ea6fd3c6dc54"
+    },
+    {
+      "id": "101",
+      "name": "SPOR SMART FHD",
+      "category": "Smart Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=37639315201c3521e36c44"
+    },
+    {
+      "id": "102",
+      "name": "SPOR SMART HD",
+      "category": "Smart Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1313563350f4a25655e128"
+    },
+    {
+      "id": "103",
+      "name": "SPOR SMART HEVC",
+      "category": "Smart Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3445708926e6195304f00c"
+    },
+    {
+      "id": "104",
+      "name": "SPOR SMART SD",
+      "category": "Smart Spor",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=660246670c64f4ea57a46"
+    },
+    {
+      "id": "105",
+      "name": "SPORTS TV .c",
+      "category": "Sports TV",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3422827985f7ff6e82532a"
+    },
+    {
+      "id": "106",
+      "name": "SPORTSTV HD",
+      "category": "Sports TV",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2611296981b853ec9139b6"
+    },
+    {
+      "id": "107",
+      "name": "NAT GEO .c",
+      "category": "Belgesel",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=184566063009c2eced111a"
+    },
+    {
+      "id": "108",
+      "name": "NAT GEO .s",
+      "category": "Belgesel",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1960546091bcaf052d3800"
+    },
+    {
+      "id": "109",
+      "name": "NAT GEO WILD .c",
+      "category": "Belgesel",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=332065496847e1d2ff5743"
+    },
+    {
+      "id": "110",
+      "name": "NAT GEO WILD .s",
+      "category": "Belgesel",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1999823186f9934d6d684a"
+    },
+    {
+      "id": "111",
+      "name": "NAT GEO WILD HD",
+      "category": "Belgesel",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1519237116daf8e783a22b"
+    },
+    {
+      "id": "112",
+      "name": "NAT GEO WILD HD+",
+      "category": "Belgesel",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=124345657e7d701408114"
+    },
+    {
+      "id": "113",
+      "name": "NATIONAL GEOGRAPHIC HD+",
+      "category": "Belgesel",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1514492628e6d09b31660c"
+    },
+    {
+      "id": "114",
+      "name": "NBA TV .c",
+      "category": "NBA",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=424754270691df643b1f60"
+    },
+    {
+      "id": "115",
+      "name": "NBA TV .s",
+      "category": "NBA",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2430655089292fc7cdfc68"
+    },
+    {
+      "id": "116",
+      "name": "NBA TV FHD",
+      "category": "NBA",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2462143546905b09fb80ad"
+    },
+    {
+      "id": "117",
+      "name": "NBA TV HD",
+      "category": "NBA",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=35138675369ae6fbf4e941"
+    },
+    {
+      "id": "118",
+      "name": "EUROSPORT 1 .c",
+      "category": "Eurosport",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=34586314617a4110b16336"
+    },
+    {
+      "id": "119",
+      "name": "EUROSPORT 1 .s",
+      "category": "Eurosport",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3271328843ca1abfbfa420"
+    },
+    {
+      "id": "120",
+      "name": "EUROSPORT 2 .c",
+      "category": "Eurosport",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2307325429068c8e128ae6"
+    },
+    {
+      "id": "121",
+      "name": "EUROSPORT 2 .s",
+      "category": "Eurosport",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=223746421983f4d7bb23cf"
+    },
+    {
+      "id": "122",
+      "name": "EUROSPORT1 HD",
+      "category": "Eurosport",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3793200644fd418f955402"
+    },
+    {
+      "id": "123",
+      "name": "EUROSPORT2 HD",
+      "category": "Eurosport",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1821942247abefa6aae14b"
+    },
+    {
+      "id": "124",
+      "name": "EXXEN SPOR 1 SD",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=20245689820af9ca3911b8"
+    },
+    {
+      "id": "125",
+      "name": "EXXEN SPORTS 1 .c",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=11882580665f12f932d6c9"
+    },
+    {
+      "id": "126",
+      "name": "EXXEN SPORTS 1 .s",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1842018252a99ee10aa7f4"
+    },
+    {
+      "id": "127",
+      "name": "EXXEN SPORTS 2 .c",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=24320962ff3ce3209657"
+    },
+    {
+      "id": "128",
+      "name": "EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=396148010898f34add6b9d"
+    },
+    {
+      "id": "129",
+      "name": "EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3807939453af427a7aa295"
+    },
+    {
+      "id": "130",
+      "name": "EXXEN SPORTS 4 .s",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=27710240609c46572439c0"
+    },
+    {
+      "id": "131",
+      "name": "EXXEN SPORTS 5 .s",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2555007244d10a40e57838"
+    },
+    {
+      "id": "132",
+      "name": "EXXEN SPORTS 6 .s",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=375666582074de424d42bf"
+    },
+    {
+      "id": "133",
+      "name": "EXXEN SPORTS 7 .s",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=38006954042bb57163b020"
+    },
+    {
+      "id": "134",
+      "name": "EXXEN SPORTS 8 .s",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1624937917c024524dfe03"
+    },
+    {
+      "id": "135",
+      "name": "EXXEN TV .c",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2426097659dac0cbc72851"
+    },
+    {
+      "id": "136",
+      "name": "EXXEN TV SPOR 1",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1208369995ee56db60c6cb"
+    },
+    {
+      "id": "137",
+      "name": "EXXEN TV SPOR 1 FEED",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=10914039127b6d2cb4f9b1"
+    },
+    {
+      "id": "138",
+      "name": "EXXEN TV SPOR 1 UHD",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3814925371b27457afc78f"
+    },
+    {
+      "id": "139",
+      "name": "EXXEN TV SPOR 2 UHD",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3673037054bbf23da360dd"
+    },
+    {
+      "id": "140",
+      "name": "EXXEN TV SPOR 3",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=851841067026eb6346001"
+    },
+    {
+      "id": "141",
+      "name": "EXXEN TV SPOR 4",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=21626092115c96093842ed"
+    },
+    {
+      "id": "142",
+      "name": "EXXEN TV SPOR 5",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3179734411cc8e59810aba"
+    },
+    {
+      "id": "143",
+      "name": "EXXEN TV SPOR 6",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=4196835163f7f34378737d"
+    },
+    {
+      "id": "144",
+      "name": "EXXEN TV SPOR 7",
+      "category": "Exxen",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3343300331c5663b93a430"
+    },
+    {
+      "id": "145",
+      "name": "FB TV .b",
+      "category": "FB TV",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=25123405584d863ac39980"
+    },
+    {
+      "id": "146",
+      "name": "FB TV .c",
+      "category": "FB TV",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=61530860186f238127811"
+    },
+    {
+      "id": "147",
+      "name": "FB TV .s",
+      "category": "FB TV",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1540748539780d20f1eec6"
+    },
+    {
+      "id": "148",
+      "name": "SKY SPORTS F1 .b",
+      "category": "Formula 1",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=384026718771a3e2288b9"
+    },
+    {
+      "id": "149",
+      "name": "SKY SPORTS F1 (BACKUP) .b",
+      "category": "Formula 1",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2268379873d4b0a0667e82"
+    },
+    {
+      "id": "150",
+      "name": "SKY SPORTS F1 (BACKUP) .s",
+      "category": "Formula 1",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=33426558972f332ff14687"
+    },
+    {
+      "id": "151",
+      "name": "SKY SPORTS F1 FHD .s",
+      "category": "Formula 1",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=22482667679c82d752c5fb"
+    },
+    {
+      "id": "152",
+      "name": "SKY SPORTS F1 FHD (BACKUP) .s",
+      "category": "Formula 1",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=42739320403fffe32be6b2"
+    },
+    {
+      "id": "153",
+      "name": "SKY SPORTS F1 HD .b",
+      "category": "Formula 1",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=14300333636d715d1c9a70"
+    },
+    {
+      "id": "154",
+      "name": "SKY SPORTS F1 HD .s",
+      "category": "Formula 1",
+      "logo": "",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=29457217916f76ebf16de7"
+    }
+  ]
+}

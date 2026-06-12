@@ -746,7 +746,7 @@
       "id": "107",
       "name": "NAT GEO .c",
       "category": "Belgesel",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/belgesel/natgeohd.png&amp;w=32&amp;n=-1",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/belgesel/natgeohd.png&amp;w=256&amp;n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=184566063009c2eced111a"
     },
     {

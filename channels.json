@@ -662,70 +662,70 @@
       "id": "95",
       "name": "SMART SPOR 1 .s",
       "category": "Smart Spor",
-      "logo": "",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=4137962062d812f45c58bd"
     },
     {
       "id": "96",
       "name": "SPOR SMART .c",
       "category": "Smart Spor",
-      "logo": "",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1771511397d05184d3e443"
     },
     {
       "id": "97",
       "name": "SPOR SMART 1 .s",
       "category": "Smart Spor",
-      "logo": "",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3278735965dfe5a38d92ee"
     },
     {
       "id": "98",
       "name": "SPOR SMART 2 .c",
       "category": "Smart Spor",
-      "logo": "",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart2.png&w=256&n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=90716509593fd6426951b"
     },
     {
       "id": "99",
       "name": "SPOR SMART 2 .s",
       "category": "Smart Spor",
-      "logo": "",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart2.png&w=256&n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2228088973f56fff74c71f"
     },
     {
       "id": "100",
       "name": "SPOR SMART 2 HD",
       "category": "Smart Spor",
-      "logo": "",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart2.png&w=256&n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2726496671ea6fd3c6dc54"
     },
     {
       "id": "101",
       "name": "SPOR SMART FHD",
       "category": "Smart Spor",
-      "logo": "",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=37639315201c3521e36c44"
     },
     {
       "id": "102",
       "name": "SPOR SMART HD",
       "category": "Smart Spor",
-      "logo": "",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1313563350f4a25655e128"
     },
     {
       "id": "103",
       "name": "SPOR SMART HEVC",
       "category": "Smart Spor",
-      "logo": "",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3445708926e6195304f00c"
     },
     {
       "id": "104",
       "name": "SPOR SMART SD",
       "category": "Smart Spor",
-      "logo": "",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=660246670c64f4ea57a46"
     },
     {
@@ -746,7 +746,7 @@
       "id": "107",
       "name": "NAT GEO .c",
       "category": "Belgesel",
-      "logo": "",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/belgesel/natgeohd.png&amp;w=32&amp;n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=184566063009c2eced111a"
     },
     {

@@ -317,17 +317,17 @@
     },
     {
       "id": "46",
-      "name": "S SPORT+4 MAC SAATI",
+      "name": "S SPORT+1 MAC SAATI",
       "category": "S Sport",
       "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
-      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1507829436cb5aa4fb5b34"
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2559756791dcf166140367"
     },
     {
       "id": "47",
-      "name": "S SPORT+5 MAC SAATI",
+      "name": "S SPORT+2 MAC SAATI",
       "category": "S Sport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
-      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=376048776421ffc14b9074"
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus2.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2314183566dbbab2892d05"
     },
     {
       "id": "48",
@@ -359,17 +359,17 @@
     },
     {
       "id": "52",
-      "name": "S-SPORT+1 MAC SAATI",
+      "name": "S-SPORT+4 MAC SAATI",
       "category": "S Sport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
-      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2559756791dcf166140367"
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus4.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1507829436cb5aa4fb5b34"
     },
     {
       "id": "53",
-      "name": "S-SPORT+2 MAC SAATI",
+      "name": "S-SPORT+5 MAC SAATI",
       "category": "S Sport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
-      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2314183566dbbab2892d05"
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus5.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=376048776421ffc14b9074"
     },
     {
       "id": "54",

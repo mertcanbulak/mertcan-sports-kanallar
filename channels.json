@@ -317,17 +317,17 @@
     },
     {
       "id": "46",
-      "name": "S SPORT+1 MAC SAATI",
+      "name": "S SPORT+4 MAC SAATI",
       "category": "S Sport",
       "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
-      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2559756791dcf166140367"
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1507829436cb5aa4fb5b34"
     },
     {
       "id": "47",
-      "name": "S SPORT+2 MAC SAATI",
+      "name": "S SPORT+5 MAC SAATI",
       "category": "S Sport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus2.png&w=256&n=-1",
-      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2314183566dbbab2892d05"
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=376048776421ffc14b9074"
     },
     {
       "id": "48",
@@ -359,17 +359,17 @@
     },
     {
       "id": "52",
-      "name": "S-SPORT+4 MAC SAATI",
+      "name": "S-SPORT+1 MAC SAATI",
       "category": "S Sport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus4.png&w=256&n=-1",
-      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1507829436cb5aa4fb5b34"
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2559756791dcf166140367"
     },
     {
       "id": "53",
-      "name": "S-SPORT+5 MAC SAATI",
+      "name": "S-SPORT+2 MAC SAATI",
       "category": "S Sport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus5.png&w=256&n=-1",
-      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=376048776421ffc14b9074"
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/ssportplus1.png&w=256&n=-1",
+      "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2314183566dbbab2892d05"
     },
     {
       "id": "54",
@@ -389,701 +389,694 @@
       "id": "56",
       "name": "TABII SPOR .c",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis1.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1844863271513a413a321"
     },
     {
       "id": "57",
       "name": "TABII SPOR 1 .c",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis1.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=10977951419d3dfac60f92"
     },
     {
       "id": "58",
       "name": "TABII SPOR 1 4K",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis1.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=38306913165380d4cf64db"
     },
     {
       "id": "59",
       "name": "TABII SPOR 1 720P",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis1.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=36659147631b81d08d6c82"
     },
     {
       "id": "60",
       "name": "TABII SPOR 1 UHD",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis1.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=310770852202539a162e99"
     },
     {
       "id": "61",
       "name": "TABII SPOR 2 .c",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis2.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=11426114102c71664711c"
     },
     {
       "id": "62",
       "name": "TABII SPOR 2 HD",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis2.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=24901653728e4a187da4c4"
     },
     {
       "id": "63",
       "name": "TABII SPOR 2 UHD",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis2.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=21594692318c346548c2be"
     },
     {
       "id": "64",
       "name": "TABII SPOR 3 .c",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis3.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=10013463414fd5f0938a50"
     },
     {
       "id": "65",
       "name": "TABII SPOR 3 HD",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis3.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1489430754b4fd6e6dc327"
     },
     {
       "id": "66",
       "name": "TABII SPOR 4 .c",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis4.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2307885365b7f1828e97ba"
     },
     {
       "id": "67",
       "name": "TABII SPOR 4 HD",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis4.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=13759861713a771b4b4726"
     },
     {
       "id": "68",
       "name": "TABII SPOR 4 UHD",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis4.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=408817539739fafefc9d3b"
     },
     {
       "id": "69",
       "name": "TABII SPOR 5 .c",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis5.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3035603077ef0df0e5da67"
     },
     {
       "id": "70",
       "name": "TABII SPOR 5 HD",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis5.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=26619334135baa08b0bc1a"
     },
     {
       "id": "71",
       "name": "TABII SPOR 6 .c",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis6.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=40820967253b1d74e19a7f"
     },
     {
       "id": "72",
       "name": "TABII SPOR 6 HD",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis6.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=270984838ca5cfbf75daa"
     },
     {
       "id": "73",
       "name": "TABII SPOR 6 UHD",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis6.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=37137089631c97c5b7ef8f"
     },
     {
       "id": "74",
       "name": "TABII SPOR HD",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=225948008747f499d08214"
     },
     {
       "id": "75",
       "name": "TABII SPOR SD",
       "category": "Tabii Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tabiis.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=40221481750ee503c548f9"
     },
     {
       "id": "76",
       "name": "TIVIBU SPOR",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1159899920595e9c441350"
     },
     {
       "id": "77",
       "name": "TIVIBU SPOR 1",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=25659723389efdd2098be1"
     },
     {
       "id": "78",
       "name": "TIVIBU SPOR 1 .s",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1528949791210996169a6f"
     },
     {
       "id": "79",
       "name": "TIVIBU SPOR 1 HD .s",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2046583925cdbd476d8733"
     },
     {
       "id": "80",
       "name": "TIVIBU SPOR 2 .c",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor2.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=37466838109fc1c67c228d"
     },
     {
       "id": "81",
       "name": "TIVIBU SPOR 2 .s",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor2.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=4782547993a1194125c51"
     },
     {
       "id": "82",
       "name": "TIVIBU SPOR 3 .c",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor3.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=37949240505288959ad99c"
     },
     {
       "id": "83",
       "name": "TIVIBU SPOR 3 .s",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor3.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=568442751987b14d1ad00"
     },
     {
       "id": "84",
       "name": "TIVIBU SPOR 3 HD .s",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor3.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=100410240872b813d41c94"
     },
     {
       "id": "85",
       "name": "TIVIBU SPOR 4 .c",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor4.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1343303170fbfea75b9f15"
     },
     {
       "id": "86",
       "name": "TIVIBU SPOR 4 HD",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor4.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3307062704472686916fe7"
     },
     {
       "id": "87",
       "name": "TIVIBU SPOR RAW",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1406262118fb4f653061f6"
     },
     {
       "id": "88",
       "name": "TIVIBUSPOR 1 FHD",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=289665874444b8f4f2d451"
     },
     {
       "id": "89",
       "name": "TIVIBUSPOR 1 HD",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=36545180071dd8a862ae2e"
     },
     {
       "id": "90",
       "name": "TIVIBUSPOR 2 FHD",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor2.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=25026063331fd9c2bab71e"
     },
     {
       "id": "91",
       "name": "TIVIBUSPOR 2 HD",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor2.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1465680660b8cd069bfa4c"
     },
     {
       "id": "92",
       "name": "TIVIBUSPOR 3 FHD",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor3.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=21863899508f19a672f26d"
     },
     {
       "id": "93",
       "name": "TIVIBUSPOR 3 HD",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor3.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=261662401043fc1ad1ed6f"
     },
     {
       "id": "94",
       "name": "TIVIBUSPOR SPOR HD",
       "category": "Tivibu Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/tivibuspor.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=36535158588fee46401238"
     },
     {
       "id": "95",
       "name": "SMART SPOR 1 .s",
       "category": "Smart Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=4137962062d812f45c58bd"
     },
     {
       "id": "96",
       "name": "SPOR SMART .c",
       "category": "Smart Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1771511397d05184d3e443"
     },
     {
       "id": "97",
       "name": "SPOR SMART 1 .s",
       "category": "Smart Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3278735965dfe5a38d92ee"
     },
     {
       "id": "98",
       "name": "SPOR SMART 2 .c",
       "category": "Smart Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart2.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=90716509593fd6426951b"
     },
     {
       "id": "99",
       "name": "SPOR SMART 2 .s",
       "category": "Smart Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart2.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2228088973f56fff74c71f"
     },
     {
       "id": "100",
       "name": "SPOR SMART 2 HD",
       "category": "Smart Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart2.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2726496671ea6fd3c6dc54"
     },
     {
       "id": "101",
       "name": "SPOR SMART FHD",
       "category": "Smart Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=37639315201c3521e36c44"
     },
     {
       "id": "102",
       "name": "SPOR SMART HD",
       "category": "Smart Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1313563350f4a25655e128"
     },
     {
       "id": "103",
       "name": "SPOR SMART HEVC",
       "category": "Smart Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3445708926e6195304f00c"
     },
     {
       "id": "104",
       "name": "SPOR SMART SD",
       "category": "Smart Spor",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sporsmart.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=660246670c64f4ea57a46"
     },
     {
       "id": "105",
       "name": "SPORTS TV .c",
       "category": "Sports TV",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sportstv.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3422827985f7ff6e82532a"
     },
     {
       "id": "106",
       "name": "SPORTSTV HD",
       "category": "Sports TV",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/sportstv.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2611296981b853ec9139b6"
     },
     {
       "id": "107",
       "name": "NAT GEO .c",
       "category": "Belgesel",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/belgesel/natgeohd.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=184566063009c2eced111a"
     },
     {
       "id": "108",
       "name": "NAT GEO .s",
       "category": "Belgesel",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/belgesel/natgeohd.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1960546091bcaf052d3800"
     },
     {
       "id": "109",
       "name": "NAT GEO WILD .c",
       "category": "Belgesel",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/belgesel/ngwhd.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=332065496847e1d2ff5743"
     },
     {
       "id": "110",
       "name": "NAT GEO WILD .s",
       "category": "Belgesel",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/belgesel/ngwhd.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1999823186f9934d6d684a"
     },
     {
       "id": "111",
       "name": "NAT GEO WILD HD",
       "category": "Belgesel",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/belgesel/ngwhd.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1519237116daf8e783a22b"
     },
     {
       "id": "112",
       "name": "NAT GEO WILD HD+",
       "category": "Belgesel",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/belgesel/ngwhd.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=124345657e7d701408114"
     },
     {
       "id": "113",
       "name": "NATIONAL GEOGRAPHIC HD+",
       "category": "Belgesel",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/belgesel/natgeohd.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1514492628e6d09b31660c"
     },
     {
       "id": "114",
       "name": "NBA TV .c",
       "category": "NBA",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/nbatv.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=424754270691df643b1f60"
     },
     {
       "id": "115",
       "name": "NBA TV .s",
       "category": "NBA",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/nbatv.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2430655089292fc7cdfc68"
     },
     {
       "id": "116",
       "name": "NBA TV FHD",
       "category": "NBA",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/nbatv.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2462143546905b09fb80ad"
     },
     {
       "id": "117",
       "name": "NBA TV HD",
       "category": "NBA",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/nbatv.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=35138675369ae6fbf4e941"
     },
     {
       "id": "118",
       "name": "EUROSPORT 1 .c",
       "category": "Eurosport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/eurosport1hd.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=34586314617a4110b16336"
     },
     {
       "id": "119",
       "name": "EUROSPORT 1 .s",
       "category": "Eurosport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/eurosport1hd.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3271328843ca1abfbfa420"
     },
     {
       "id": "120",
       "name": "EUROSPORT 2 .c",
       "category": "Eurosport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/eurosport2hd.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2307325429068c8e128ae6"
     },
     {
       "id": "121",
       "name": "EUROSPORT 2 .s",
       "category": "Eurosport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/eurosport2hd.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=223746421983f4d7bb23cf"
     },
     {
       "id": "122",
       "name": "EUROSPORT1 HD",
       "category": "Eurosport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/eurosport1hd.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3793200644fd418f955402"
     },
     {
       "id": "123",
       "name": "EUROSPORT2 HD",
       "category": "Eurosport",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/eurosport2hd.png&w=256&n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1821942247abefa6aae14b"
     },
     {
       "id": "124",
       "name": "EXXEN SPOR 1 SD",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=20245689820af9ca3911b8"
     },
     {
       "id": "125",
       "name": "EXXEN SPORTS 1 .c",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=11882580665f12f932d6c9"
     },
     {
       "id": "126",
       "name": "EXXEN SPORTS 1 .s",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1842018252a99ee10aa7f4"
     },
     {
       "id": "127",
       "name": "EXXEN SPORTS 2 .c",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen2.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=24320962ff3ce3209657"
     },
     {
       "id": "128",
       "name": "EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY]",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen2.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=396148010898f34add6b9d"
     },
     {
       "id": "129",
       "name": "EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen3.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3807939453af427a7aa295"
     },
     {
       "id": "130",
       "name": "EXXEN SPORTS 4 .s",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen4.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=27710240609c46572439c0"
     },
     {
       "id": "131",
       "name": "EXXEN SPORTS 5 .s",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen5.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2555007244d10a40e57838"
     },
     {
       "id": "132",
       "name": "EXXEN SPORTS 6 .s",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen6.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=375666582074de424d42bf"
     },
     {
       "id": "133",
       "name": "EXXEN SPORTS 7 .s",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen7.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=38006954042bb57163b020"
     },
     {
       "id": "134",
       "name": "EXXEN SPORTS 8 .s",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen8.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1624937917c024524dfe03"
     },
     {
       "id": "135",
       "name": "EXXEN TV .c",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2426097659dac0cbc72851"
     },
     {
       "id": "136",
       "name": "EXXEN TV SPOR 1",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1208369995ee56db60c6cb"
     },
     {
       "id": "137",
       "name": "EXXEN TV SPOR 1 FEED",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=10914039127b6d2cb4f9b1"
     },
     {
       "id": "138",
       "name": "EXXEN TV SPOR 1 UHD",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3814925371b27457afc78f"
     },
     {
       "id": "139",
       "name": "EXXEN TV SPOR 2 UHD",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen2.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3673037054bbf23da360dd"
     },
     {
       "id": "140",
       "name": "EXXEN TV SPOR 3",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen3.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=851841067026eb6346001"
     },
     {
       "id": "141",
       "name": "EXXEN TV SPOR 4",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen4.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=21626092115c96093842ed"
     },
     {
       "id": "142",
       "name": "EXXEN TV SPOR 5",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen5.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3179734411cc8e59810aba"
     },
     {
       "id": "143",
       "name": "EXXEN TV SPOR 6",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen6.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=4196835163f7f34378737d"
     },
     {
       "id": "144",
       "name": "EXXEN TV SPOR 7",
       "category": "Exxen",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/exxen7.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=3343300331c5663b93a430"
     },
     {
       "id": "145",
       "name": "FB TV .b",
       "category": "FB TV",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/fbtv.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=25123405584d863ac39980"
     },
     {
       "id": "146",
       "name": "FB TV .c",
       "category": "FB TV",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/fbtv.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=61530860186f238127811"
     },
     {
       "id": "147",
       "name": "FB TV .s",
       "category": "FB TV",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/sporkanallari/fbtv.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=1540748539780d20f1eec6"
     },
     {
       "id": "148",
       "name": "SKY SPORTS F1 .b",
       "category": "Formula 1",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/deutsche-sport/f1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=384026718771a3e2288b9"
     },
     {
       "id": "149",
       "name": "SKY SPORTS F1 (BACKUP) .b",
       "category": "Formula 1",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/deutsche-sport/f1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=2268379873d4b0a0667e82"
     },
     {
       "id": "150",
       "name": "SKY SPORTS F1 (BACKUP) .s",
       "category": "Formula 1",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/deutsche-sport/f1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=33426558972f332ff14687"
     },
     {
       "id": "151",
       "name": "SKY SPORTS F1 FHD .s",
       "category": "Formula 1",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/deutsche-sport/f1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=22482667679c82d752c5fb"
     },
     {
       "id": "152",
       "name": "SKY SPORTS F1 FHD (BACKUP) .s",
       "category": "Formula 1",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/deutsche-sport/f1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=42739320403fffe32be6b2"
     },
     {
       "id": "153",
       "name": "SKY SPORTS F1 HD .b",
       "category": "Formula 1",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/deutsche-sport/f1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=14300333636d715d1c9a70"
     },
     {
       "id": "154",
       "name": "SKY SPORTS F1 HD .s",
       "category": "Formula 1",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/deutsche-sport/f1.png&amp;w=256&amp;n=-1",
+      "logo": "",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=29457217916f76ebf16de7"
-    },
-    {
-      "id": "155",
-      "name": "TRT 1 FHD",
-      "category": "Ulusal",
-      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/ulusalkanal/trt1.png&w=256&n=-1",
-      "url": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8"
     }
   ]
 }

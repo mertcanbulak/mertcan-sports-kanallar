@@ -1078,5 +1078,12 @@
       "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/deutsche-sport/f1.png&amp;w=256&amp;n=-1",
       "url": "http://172.211.245.25/vavoo_api.php?a=play&id=29457217916f76ebf16de7"
     }
+    {
+      "id": "155",
+      "name": "TRT 1 FHD",
+      "category": "Ulusal",
+      "logo": "https://wsrv.nl/?url=channel-icons-cdn.montanaiptv.app/ulusalkanal/trt1.png&w=256&n=-1",
+      "url": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8"
+    },
   ]
 }
